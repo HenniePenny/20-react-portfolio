@@ -1,4 +1,10 @@
-function Resume() {
-  return <div>Resume</div>;
+import React from "react";
+
+export default function Resume() {
+  return (
+    <div>
+      <h1>Resume</h1>
+      <p>downloadable link here</p>
+    </div>
+  );
 }
-export default Resume;
