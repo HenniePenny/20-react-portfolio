@@ -1,9 +1,16 @@
 import React from "react";
+import "../../styles/Pages.css";
 
 function About() {
   return (
     <section>
-      <h2>HKoding</h2>
+      <h1>Hennie Penny</h1>
+      <img
+        id="photo"
+        src="https://i.picsum.photos/id/1025/200/200.jpg?hmac=lPP7DRqIRSrMTmBMEg5NbVzguwqQQs2meA5kSrgLAhc"
+        alt="placeholder for Hennie Penny"
+        className="photo"
+      />
       <p>
         Program Manager | Full-stack Web Development Student | Lifelong Learning
       </p>
