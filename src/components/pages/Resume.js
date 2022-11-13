@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div>
+    <div className="container">
       <h1>Resume</h1>
-      <p>downloadable link here</p>
+      <p>Click here to download my resume.</p>
     </div>
   );
 }

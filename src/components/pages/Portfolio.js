@@ -42,7 +42,7 @@ const projectData = [
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className="container">
       <h1>Portfolio</h1>
       {projectData.map((project) => (
         <Project key={project.title} projectData={project} />
