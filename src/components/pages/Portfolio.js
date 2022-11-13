@@ -42,8 +42,8 @@ const projectData = [
 
 export default function Portfolio() {
   return (
-    <div className="container">
-      <h1>Portfolio</h1>
+    <div className="container-fluid">
+      <h2>Portfolio</h2>
       {projectData.map((project) => (
         <Project key={project.title} projectData={project} />
       ))}
