@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <div classNameName="container-fluid">
+    <div className="container">
       <h2>Contact Me</h2>
 
       <form>

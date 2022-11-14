@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section className="container-fluid">
+    <section className="container">
       <h1>Hennie Penny</h1>
       <p>
         Program Manager | Full-stack Web Development Student | Lifelong Learning
