@@ -17,9 +17,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 - understanding the logic of components and props
 - using Bootstrap for styling, which was new to me
 
-- deploying to GitHub
-
 # Links
 
-[Deployment Link]()
+[Deployment Link](https://henniepenny.github.io/20-react-portfolio/)
 [Repository Link](https://github.com/HenniePenny/20-react-portfolio)
