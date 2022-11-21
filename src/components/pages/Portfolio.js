@@ -4,9 +4,15 @@ import StudyBuddy from "../../assets/StudyBudy_screenshot.png";
 import FieldPotato from "../../assets/FieldPotato_screenshot.png";
 import Jate from "../../assets/JATE_screenshot.JPG";
 import NoteTaker from "../../assets/ExpressJSNOteTaker_screenshot.JPG";
-import WeatherDash from "../../assets/Weather-dashboard.JPG";
+import Budget from "../../assets/Screenshot1.png";
 
 const projectData = [
+  {
+    image: Budget,
+    title: "BudgetOnTheGo",
+    linkDeployed: "https://budget-on-the-go-10178.herokuapp.com/",
+    linkGH: "https://github.com/tlcoles/BudgetOnTheGo",
+  },
   {
     image: StudyBuddy,
     title: "Study Buddy - Creating study groups made easy",
@@ -29,12 +35,6 @@ const projectData = [
   {
     image: NoteTaker,
     title: "Express.js Note Taker",
-    linkDeployed: "https://limitless-island-12230.herokuapp.com/",
-    linkGH: "https://github.com/HenniePenny/11-Express.js-Note-Taker",
-  },
-  {
-    image: WeatherDash,
-    title: "Weather Dashboard",
     linkDeployed: "https://limitless-island-12230.herokuapp.com/",
     linkGH: "https://github.com/HenniePenny/11-Express.js-Note-Taker",
   },
